@@ -25,5 +25,5 @@ bq query --use_legacy_sql=false --format=csv \
   done
 done
 
-echo "✅ Export hotový: všetky CSV sú v $EXPORT_DIR"
+echo " Export hotový: všetky CSV sú v $EXPORT_DIR"
 
