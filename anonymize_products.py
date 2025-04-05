@@ -9,5 +9,5 @@ for col in cols_to_anonymize:
         df[col] = '***'
 
 df.to_csv('datasets/Shoptet/Products_anonymized.csv', index=False)
-print("✅ Produkty anonymizované a uložené do: datasets/Shoptet/Products_anonymized.csv")
+print(" Produkty anonymizované a uložené do: datasets/Shoptet/Products_anonymized.csv")
 
