@@ -1,3 +1,10 @@
-Error in query string: Error processing job
-'nicolips:bqjob_r5da80e18cbc4c745_0000019607c65997_1': Unrecognized name:
-Cena_za_vysledky; Did you mean Cena_za_vyisledky? at [14:3]
+Zaciatok_vykazovania,Koniec_vykazovania,Nazov_kampane,Dorucenie_kampane,Rozpocet_zostavy_reklam,Typ_rozpoctu_zostavy_reklam,Nastavenie_pricitania,Vysledky,Result_indicator,Dosah,Impresie,Cena_za_vysledky,Minuta_suma__EUR_,Koniec
+2023-01-01,2024-12-31,Test Kampaň,inactive,Using ad set budget,0,7-day click or 1-day view,,,2248,3513,,15.21,Neprebieha
+2023-01-01,2024-12-31,CZ | Adview | PTG | Advantage+  Campaign,inactive,Using ad set budget,0,7-day click or 1-day view,32,actions:offsite_conversion.fb_pixel_purchase,18754,59118,6.6546875,212.95,Neprebieha
+2023-01-01,2024-12-31,AV | PTG | Advantage - Catalog - SK Campaign,active,Using ad set budget,0,7-day click or 1-day view,798,actions:offsite_conversion.fb_pixel_purchase,273222,1967477,6.87322055,5484.83,Prebieha
+2023-01-01,2024-12-31,AV | PTG | posty Campaign,inactive,Using ad set budget,0,1-day click,2,actions:offsite_conversion.fb_pixel_purchase,10728,14402,19.995,39.99,Neprebieha
+2023-01-01,2024-12-31,AV | PTG | posty zaři -SK,active,Using ad set budget,0,7-day click or 1-day view,122,actions:offsite_conversion.fb_pixel_purchase,45105,226664,5.56606557,679.06,Prebieha
+2023-01-01,2024-12-31,AV_Akce Iceberg-SK Campaign,inactive,Using ad set budget,0,7-day click or 1-day view,28,actions:offsite_conversion.fb_pixel_purchase,17087,45097,5.335,149.38,Neprebieha
+2023-01-01,2024-12-31,AV_Akce-Killa Kampaň,inactive,Using ad set budget,0,7-day click or 1-day view,16,actions:offsite_conversion.fb_pixel_purchase,12882,23608,4.150625,66.41,Neprebieha
+2023-01-01,2024-12-31,AV_Video  Kampaň,inactive,Using ad set budget,0,7-day click or 1-day view,113,actions:offsite_conversion.fb_pixel_purchase,77001,281086,8.09699115,914.96,Neprebieha
+2023-01-01,2024-12-31,AV_CONV_PROSP_BAN+CAT,active,Using ad set budget,0,"7-day click, 1-day view, or 1-day engaged-view",38,actions:offsite_conversion.fb_pixel_purchase,28729,103718,6.435,244.53,Prebieha
