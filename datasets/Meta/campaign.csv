@@ -1,3 +1,3 @@
 Error in query string: Error processing job
-'nicolips:bqjob_r176ab898d28663f6_0000019607c5ca6b_1': Unrecognized name:
-Vysledky; Did you mean Vyisledky? at [10:3]
+'nicolips:bqjob_r5da80e18cbc4c745_0000019607c65997_1': Unrecognized name:
+Cena_za_vysledky; Did you mean Cena_za_vyisledky? at [14:3]
