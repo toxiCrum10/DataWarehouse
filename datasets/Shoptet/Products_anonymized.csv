@@ -1,0 +1,4 @@
+BigQuery error in query operation: Error processing job
+'nicolips:bqjob_r80c52cfe950fccd_000001960780bf99_1': Access Denied: Table
+nicolips-data:Shoptet.Products: User does not have permission to query table
+nicolips-data:Shoptet.Products, or perhaps it does not exist.
