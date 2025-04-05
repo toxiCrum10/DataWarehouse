@@ -1,3 +1,9 @@
-BigQuery error in query operation: Error processing job
-'nicolips:bqjob_r63ed6d5bdd3a98f6_0000019605b6e302_1': Not found: Table
-nicolips:google_ads_data.kvartal was not found in location europe-west10
+Stvrtrok,Kliknutia,Zobrazenia,Konverzie,Cena
+1. stvrťrok 2023,0,0,0,0.00 
+2. stvrťrok 2023,111,42 270,2,51.10 
+3. stvrťrok 2023,0,0,0,0.00 
+4. stvrťrok 2023,0,0,0,0.00 
+1. stvrťrok 2024,0,0,0,0.00 
+2. stvrťrok 2024,54,940,2,71.53 
+3. stvrťrok 2024,459,3 332,92,350.41 
+4. stvrťrok 2024,3 429,23 826,431,1 299.73
