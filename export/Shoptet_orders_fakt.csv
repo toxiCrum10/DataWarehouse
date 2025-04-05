@@ -1,0 +1,3 @@
+BigQuery error in query operation: Error processing job
+'nicolips:bqjob_r8cfddcabce8e0e4_00000195fd0b8090_1': Not found: Table
+nicolips:analytics_395022253.orders_fakt was not found in location EU

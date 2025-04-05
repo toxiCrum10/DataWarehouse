@@ -1,0 +1,3 @@
+BigQuery error in query operation: Error processing job
+'nicolips:bqjob_r492738a0fed5eaef_00000195fd09b66a_1': Not found: Table
+nicolips:Meta.Leadhub was not found in location europe-west10

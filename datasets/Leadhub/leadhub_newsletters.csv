@@ -1,0 +1,82 @@
+campaign_id,campaign_name,campaign_type,sent_date,subject,subject_personalized,tags,total_sent,unique_opens,open_rate,total_clicks,unique_clicks,click_through_rate,unsubscribed,total_value,orders_count
+e3b78334beea493f9859f5b5e4d838e2,18.8. týdenní akce,targeted-emailing,18.08.2024 19:00,"Jana, zľava až 25 % je tu! 💥 ",true,,8888,2783,0.313,91,56,0.006,48,649.66,19
+ee84e06564284800a5291b73b20d7f05,glo veo neo,targeted-emailing,20.08.2024 19:00,"Jana, kúp veo™ alebo neo™ výhodne! ",true,,8678,1386,0.16,47,29,0.003,15,498.23,16
+cea60878d83a4e24b80ed970a983bfe7,23.8. týdenní akce,targeted-emailing,25.08.2024 19:00,"Jana, až 18% zľava len tento týždeň! 😍",true,,8689,2882,0.332,68,35,0.004,14,685.35,22
+e507b6e8b54a49dfb43aba5f0200d352,Vuse,targeted-emailing,27.08.2024 15:00,"Jana, 4 Vuse Go 700 za cenu 2! Musíš mať 💥 ",true,,8685,2014,0.232,76,48,0.006,11,387.96,15
+71eddf5ee8fd449a9a21db944a8b787c,27.8. týdenní akce,targeted-emailing,29.08.2024 18:00,"Jana, TOP novinky od 77 a GARANT! 💣",true,,8698,2031,0.234,30,19,0.002,16,274.09,10
+bb6de84f6fa5470abc5242826ad275dc,12. 9. týdenní akce testovací 2,targeted-emailing,15.09.2024 19:00,"Jana, novinky týždňa sú tu! 🔥",true,,9056,3294,0.364,43,38,0.004,13,921.31,27
+de68a2b131a44b7cbb5cfa75583edfc2,Skladovky,targeted-emailing,20.09.2024 14:00,"Jana, pozri, čo máme práve teraz na sklade! ❄️🍌",true,,9219,4100,0.445,22,20,0.002,11,618.98,15
+0fac8c32fb524b1db660b0d8e6616c6d,novinky 9/25,targeted-emailing,25.09.2024 13:26,"Jana, novinky od značky Level!  🍏🍉",true,,9370,4030,0.43,35,32,0.003,10,795.93,21
+abd980c8577e44a688fc30b094a89908,"novinky 9/25 - nedělní na ty, co neotevřeli",targeted-emailing,29.09.2024 13:00,"Jana, novinky od značky Level!  🍏🍉",true,,5664,1826,0.322,27,20,0.004,7,385.55,10
+3408ec5a56dc42d68a5bac451f8d8caf,novinky 3/10,targeted-emailing,04.10.2024 10:10,"Jana, dve novinky pre najskúsenejších! 💥",true,,9631,3297,0.342,77,48,0.005,23,1043.69,26
+030849ac18574f34a965420a66f05749,4 Velo len za cenu 3,targeted-emailing,08.10.2024 19:30,"Jana, 4 balenia vrecúšok Velo za cenu 3! 💥",true,,9737,3015,0.31,87,66,0.007,19,795.05,33
+653286f0b86447eeb8278c6b8c64d793,akce KILLA Cold Mint,targeted-emailing,14.10.2024 20:00,"❄️Jana, osviežujúce vrecká KILLA s 15% zľavou!  ",true,,9913,3082,0.311,33,25,0.003,23,828.22,30
+7706d3a04d2046fc874e801f2f0bee7c,3 zariadenia Vuse Go 800 len za cenu 2!,targeted-emailing,16.10.2024 7:30,"Jana, 3 zariadenia Vuse Go 800 len za cenu 2! 💜",true,,9941,3133,0.315,65,45,0.005,17,733.83,27
+b68719c0076d4507ba1275c8e396bdc4,akce KILLA Cold Mintd,targeted-emailing,26.10.2024 8:20,"❄️Jana, osviežujúce vrecká KILLA s 25% zľavou!  ",true,,10258,3080,0.3,32,28,0.003,17,550.39,29
+6d04c855dfba4539832a5cc04e56b911,flonq,targeted-emailing,28.10.2024 20:00,"🫐🍑Jana, inovatívne e-cigarety FLONQ musíš vyskúšať! ",true,,10317,3155,0.306,57,42,0.004,25,519.31,24
+a5d227fb38e3426e938d4564c2975dac,Velo 2+1,targeted-emailing,05.11.2024 16:55,"💣Jana, 3 balenia vrecúšok Velo za cenu 2! ",true,,10537,3602,0.342,79,58,0.006,19,1048.03,37
+150cf7af91724232b6840c1eb71eae65,Velo 2+1 partneři BAT,targeted-emailing,12.11.2024 19:00,"🔥Jana, kúp 3 Velo za cenu 2! ",true,,10792,3737,0.346,90,70,0.006,14,1088.64,31
+9953fd5d3e4d41479203a86b99095c35,EDEL partner,targeted-emailing,21.11.2024 16:00,"🔥Jana, až -40 % zľava na nikotínové vrecúška EDEL zo Švajčiarska 🎉🇨🇭",true,,11090,4006,0.361,178,105,0.009,14,1236.0,47
+862759390b6b434bb5547b9f8eeee4ab,ELF BAR,targeted-emailing,24.11.2024 19:00,"🔥Jana, objavte e-cigarety Elf Bar - štýlové a praktické💨✨ ",true,,11165,6012,0.538,165,123,0.011,24,1199.69,41
+46af1b4b802447de8df4177c3b29c735,CUBA opäť skladom,targeted-emailing,28.11.2024 19:00,"🍒Jana, Cuba Black Cherry je opäť skladem! ",true,,11301,3946,0.349,105,83,0.007,13,909.72,42
+03a2791b1635474998b42362d3601c86,Doprava zdarma na sobotu,targeted-emailing,30.11.2024 9:00,"🚚 Jana, doprava zdarma len túto sobotu! ",true,,11325,4693,0.414,163,99,0.009,11,1044.81,50
+8f5bbb035a554a1a8c9d57c3abe7eaab,"Doprava zdarma na sobotu na ty, co neotevřeli",targeted-emailing,30.11.2024 19:30,"🚚 Jana, doprava zdarma len túto sobotu! ",true,,8226,2760,0.336,43,15,0.002,9,704.49,30
+6a66b1094b364fb5bf48740aa8a5157d,novinky a týdenní akce,targeted-emailing,05.12.2024 15:19,"💥Jana, novinky Garant a týždenné akcie! ",true,,11495,3960,0.344,50,41,0.004,22,646.27,26
+aaff76bc62e94c23b67db6e5d199a433,ICEBERG skladomd,targeted-emailing,09.12.2024 20:00,"🐻‍❄️❄️Jana, vrecká ICEBERG sú opäť skladem! ",true,,11615,3986,0.343,138,87,0.007,25,1208.91,30
+2b63b25a23a34e799e9a18045c9cf6e8,ICEBERG skladomdd,targeted-emailing,13.12.2024 11:57,"🐻‍❄️❄️Jana, vrecká ICEBERG sú opäť skladom! ",true,,11741,3671,0.313,109,42,0.004,23,747.74,23
+83668adbdae44d7f885f4b0ddbfbfb91,ICEBERG skladomddd,targeted-emailing,15.12.2024 10:00,"🐻‍❄️❄️Jana, vrecká ICEBERG sú opäť skladom! ",true,,8774,1276,0.145,37,17,0.002,8,256.48,9
+c51643815c7a423f9a988cd32bd22021,novinky a týdenní akce - 17.12. killa a garant,targeted-emailing,17.12.2024 19:30,"💥Jana, týždenná akcia s Garant Extreme a Killa - tropická novinka! ",true,,11887,3785,0.318,58,46,0.004,15,690.41,26
+2a0ad48567d84922a0e19f2ea73e9b20,CUBA black Blueberry a Pablo xxl,targeted-emailing,19.12.2024 11:00,"Jana, novinka Cuba Black Blueberry a Pablo XXL sú skladom! ",true,,11923,4543,0.381,84,53,0.004,24,589.97,30
+d3e09ded810f49a0a44f506f1a8a1949,Vánoce,targeted-emailing,24.12.2024 9:30,"Jana, 🎄 Vianočný darček od Nicolips? Jasné, že áno! 🎁 ",true,,12000,4535,0.378,196,138,0.011,28,1560.44,63
+ebc979686a554f99bb39f692ab76881d,2+1 zadarmo na Nois,targeted-emailing,06.01.2025 21:00,"🔥Jana, 2+1 zadarmo na Nois ",true,,12274,4849,0.395,166,101,0.008,29,1869.43,56
+574baee1ac6a45e69ecc023612cfb34a,2+1 zadarmo na Noisd,targeted-emailing,07.01.2025 13:30,"🔥Jana, 2+1 zadarmo na Nois ",true,,1,1,1.0,0,0,0.0,0,0.0,0
+7315c45868a84edb911b4d4a0bf8efee,"Cuba, Iceberg, Thor",targeted-emailing,12.01.2025 20:00,"💥Jana, obľúbené príchute sú späť! 🍒❄️ + Novinka – značka THOR“ ",true,,12350,5145,0.417,156,84,0.007,9,1890.16,66
+75056e9a84e84c9ca68e03d84f92ac02,"Cuba, Iceberg, Thord",targeted-emailing,13.01.2025 16:00,"💥Jana, obľúbené príchute sú späť! 🍒❄️ + Novinka – značka THOR“ ",true,,8213,1668,0.203,30,19,0.002,17,617.84,25
+539e5195fdc14ac99e5a222a5a6c547a,týždňové akcie,targeted-emailing,19.01.2025 20:13,"💥Samko, obľúbené týždňové akcie sú späť! 🍒❄️ ",true,,12668,4186,0.33,116,69,0.005,12,1191.46,42
+5ed7d0aae768480abb2e2a18cd3f9d11,Opet skladem,targeted-emailing,22.01.2025 21:00,"Jana, Pablo Ice Cold XXL & Cuba Blueberry opät skladom! ",true,,12816,4145,0.323,137,87,0.007,17,1573.03,44
+547554bfa26f40a98b30e164c772f1c6,Novinky Killa Exclusive a Pablo Mini,targeted-emailing,30.01.2025 20:00,"👀🔥Jana, novinky Killa Exclusive a Pablo Mini nás príjemne prekvapili ",true,,13105,6452,0.492,70,40,0.003,24,865.72,26
+c2e028f8e1e74edab9ccaa8a76e73e29,Novinky Killa Exclusive a Pablo Minid,targeted-emailing,31.01.2025 13:29,"👀🔥Jana, novinky Killa Exclusive a Pablo Mini nás príjemne prekvapili ",true,,7482,1213,0.162,19,15,0.002,11,532.08,14
+81a0c6aff97740beb252d10c5dd87060,VENIX,targeted-emailing,04.02.2025 19:30,"Jana, ponuka mesiaca s VENIX! 💨 ",true,,13269,6095,0.459,188,128,0.01,43,1310.37,45
+75671943ca2b4794bad09603e17aac5b,akce týden + booster,targeted-emailing,07.02.2025 15:30,"💥Jana, akcia týždňa + kofeínový X-Booster ☕",true,,13334,5142,0.386,57,41,0.003,18,319.89,18
+b682dcfd1a82442bb388c75c043a3520,akce týden + boosterd,targeted-emailing,09.02.2025 10:45,"💥Jana, akcia týždňa + kofeínový X-Booster ☕",true,,8811,2343,0.266,35,26,0.003,8,381.13,15
+9a88c9b5f9c0495ea6272149ef4d86d7,akce týden + novinky Vika,targeted-emailing,11.02.2025 20:00,"💣Jana, akcia týždňa + novinky Vika zo severu ❄️",true,,13497,6923,0.513,62,45,0.003,14,1080.47,32
+7b313c5e6b704907907e0415188bbce7,akce týden + novinky Vikad,targeted-emailing,12.02.2025 11:15,"💣Jana, akcia týždňa + novinky Vika zo severu ❄️",true,,7398,1708,0.231,12,12,0.002,19,523.09,17
+c30340aa5d7d4d2596132651fbaea817,Doprava zdarma,targeted-emailing,14.02.2025 20:00,"❗🚚Jana, doprava zadarmo len DNES ",true,,6954,1462,0.21,53,41,0.006,11,666.23,31
+015f5d0888be4fc7b64fdea31c8ec60a,akce týdne,targeted-emailing,17.02.2025 20:09,"🥳Jana, až -13% na vrecká Killa, Vika a ďalšie hity tohto týždňa 🔥",true,,13667,4673,0.342,132,98,0.007,22,2153.83,73
+017cd7b71e3145afa92cfdfa31861bed,akce týdned,targeted-emailing,18.02.2025 20:30,"🥳Jana, až -13% na vrecká Killa, Vika a ďalšie hity tohto týždňa 🔥",true,,9905,1621,0.164,46,37,0.004,13,783.72,21
+c9ef1b855dea452c98fbe3acc58ef4d6,10% sleva,targeted-emailing,21.02.2025 17:00,"💥Jana, -10% na všetko len do POLNOCI🌙 ",true,,13769,4219,0.306,57,40,0.003,8,1233.23,39
+0f48203752124047984477c267b529c9,10% slevad,targeted-emailing,21.02.2025 22:00,"💥Jana, POSLEDNÁ šanca: -10% na všetko len do polnoci🌙 ",true,,11498,2463,0.214,38,29,0.003,11,622.46,29
+ff44eecaddc04090b9dab0e3927b0868,Novinky VIKA,targeted-emailing,24.02.2025 20:30,"🔥Jana, novinky VIKA Kick & Mini prinášajú vreckovú revolúciu 🔬",true,,13859,5070,0.366,55,32,0.002,21,633.65,29
+1728748171d34711bcba55fe1674fb99,Novinky VIKAd,targeted-emailing,27.02.2025 20:30,"🔥Jana, novinky VIKA Kick & Mini prinášajú vreckovú revolúciu 🔬",true,,9191,1480,0.161,3,3,0.0,5,295.63,11
+6a7c3caabfa3487a8981c47e9b60428e,DOPRAVA ZDARMA,targeted-emailing,28.02.2025 17:31,"🚨Jana, doprava ZADARMO na všetko len do polnoci🌙 ",true,,13957,6198,0.444,115,70,0.005,12,985.36,43
+73a72fd031774fdaaa1101ff3a57255c,DOPRAVA ZDARMAd,targeted-emailing,28.02.2025 22:00,"🚨Jana, doprava ZADARMO na všetko len do polnoci🌙 ",true,,10092,2394,0.237,14,11,0.001,10,438.71,21
+2678c8bbc7974eb98d8bfe3078bdfc91,8 % nikotinové sáčky,targeted-emailing,07.03.2025 17:00,"⏰Jana, 8% zľava na nikotínové vrecúška len TERAZ ",true,,4414,1857,0.421,56,34,0.008,2,1045.1,30
+da3e623df5dd420fac12b60359ffe6b8,8 % e-cigarety,targeted-emailing,07.03.2025 17:00,"⏰Jana, 8% zľava na e-cigarety len TERAZ ",true,,477,202,0.423,7,6,0.013,2,15.5,1
+d4ff5474c8fc4b20849fe2f79333915d,8 % zbytek,targeted-emailing,07.03.2025 17:30,"🌙Jana, 8% zľava na všetko len TERAZ ⏰",true,,9244,3059,0.331,65,36,0.004,7,401.3,17
+663ad158db084f35a03d646be23fe418,8 % nikotinové sáčkyd,targeted-emailing,07.03.2025 22:00,"⏰Jana, 8% zľava na nikotínové vrecúška len TERAZ ",true,,3405,717,0.211,10,5,0.001,2,401.96,13
+a9ab2500f400446eafaca8e8181b131f,8 % zbytekd,targeted-emailing,07.03.2025 22:00,"🌙Jana, 8% zľava na všetko len TERAZ ⏰",true,,7652,1145,0.15,8,6,0.001,9,167.05,9
+1f32b4a37bf94c1a85bc846738dc0418,8 % e-cigaretyd,targeted-emailing,07.03.2025 22:00,"⏰Jana, 8% zľava na e-cigarety len TERAZ ",true,,369,73,0.198,0,0,0.0,0,0.0,0
+0f448a0059d840108ee106c9b4c78f4e,akce týdne 10.3.,targeted-emailing,10.03.2025 20:00,"🍃Jana, zľavy až 18 %! Osvieženie, ktoré ťa dostane! 💥 ",true,,14203,4808,0.339,91,64,0.005,17,1276.89,42
+5c5043f408754f0aa5d7afd1a36fa774,akce týdne 10.3.d,targeted-emailing,13.03.2025 20:00,"🍃Jana, zľavy až 18 %! Osvieženie, ktoré ťa dostane! 💥 ",true,,9786,1306,0.133,34,24,0.002,3,387.49,15
+c3571141d3ff4e4d8719c722213ec0ec,velo akce,targeted-emailing,16.03.2025 19:30,"💥Jana, kúp 4 Velo len za cenu 3! ",true,,14411,6166,0.428,108,76,0.005,19,1374.6,45
+3c17269b95a243098677ceb451b3df53,akce týdne 17. 3. e-cig,targeted-emailing,17.03.2025 20:15,"🫦Jana, nové e-cigarety Iceberg a 14% zľava na vrecká Lips ",true,,483,191,0.395,4,4,0.008,2,0.0,0
+97f9b5ba1fb047f891168307ffc81041,akce týdne 17. 3. vrecka,targeted-emailing,17.03.2025 20:35,"Jana, 14% zľava na vrecká Lips 🫦 a nové e-cigarety Iceberg ",true,,13970,4305,0.308,92,71,0.005,20,1147.39,38
+c766d95a858c46a08eb27152fcba8416,akce týdne 17. 3. e-cigd,targeted-emailing,18.03.2025 19:00,"🫦Jana, nové e-cigarety Iceberg a 14% zľava na vrecká Lips ",true,,311,36,0.116,3,3,0.01,1,0.0,0
+0107a090932e43f090a05a9dba0a7a34,akce týdne 17. 3. vreckad,targeted-emailing,18.03.2025 19:00,"Jana, 14% zľava na vrecká Lips 🫦 a nové e-cigarety Iceberg ",true,,10169,989,0.097,45,34,0.003,14,242.51,8
+fffcbd7024b84319bfcd0d4110cf1890,Odmena 30 dní po 1. nákupe - motivace,incremental-emailing,,"Jana, 5% zľava | Nakúpiš niečo nové? 💎",true,,4230,1794,0.424,78,44,0.01,6,2591.16,69
+9db22370085943109d7e4d60d0f0d217,Košík po 2hodinách,incremental-emailing,,"Jana, niečo tu na teba čaká 👀",true,,4805,2725,0.567,344,208,0.043,23,8356.7,278
+3b54f1e3fbce441f8286c122c6d9dd33,Pripomenutie prvý nákup,incremental-emailing,,"Jana, stále na teba čaká 5% zľava! ⏰",true,,3653,1322,0.362,138,43,0.012,14,866.68,33
+0a68f612b7014d6aaba8aed3c2997452,12 měsíců,incremental-emailing,,"Jana, nie je čas na nejaké nikotínové novinky? ",true,,4741,1343,0.283,14,11,0.002,12,0.0,0
+400fc18b068b4628b674b0b490c30ce8,Zľava na prvý nákup,incremental-emailing,,"Jana, tvoj zľavový kód je tu 📫 ",true,,5942,4276,0.72,900,651,0.11,13,36391.87,1243
+642d9bb1a2e44d86878016a0f3e8fb28,Košík po 24 hodinách,incremental-emailing,,"Jana, nezabudni svoju objednávku dokončiť 💥",true,,3512,1328,0.378,117,81,0.023,10,2113.12,73
+74fc2606cfda4429a36d23c12b289e31,Prianie k sviatku,incremental-emailing,,"Jana, všetko najlepšie k sviatku! 🎁",true,,5896,2567,0.435,108,79,0.013,6,1045.32,32
+76b1bbe105284d928ba9d93355aaee90,Odmena 6 mesiacov od nákupu,incremental-emailing,,"Jana, už ti chýbame? 🫦",true,,2973,1001,0.337,14,11,0.004,6,251.93,10
+c103652040b646009e151d12f5b2a09d,Uvítanie,incremental-emailing,,"Jana, vitaj v našej bande 🫦",true,,8004,4524,0.565,637,436,0.054,52,20936.96,705
+675b28bb199a409bb59f3c7d6824369b,Odmena 3 mesiacov od nákupu,incremental-emailing,,"Jana, darček 🎁 ako poďakovanie",true,,3730,1410,0.378,45,34,0.009,6,533.92,16
+abf017de835b4e95816a8cd359d72c6f,Potvrdenie účasti,incremental-emailing,,"Lenka, potvrdzujeme Vám účasť v súťaži",true,,0,0,0.0,0,0,0.0,0,0.0,0
+3e6b5d36f09644c08d9a5eec13430476,Odmena 2 mesiace od nákupu,incremental-emailing,,"Jana, urob si radosť. Zaslúžiš si to! 👈",true,,3749,1254,0.334,42,33,0.009,10,452.9,13
+3a6fa5a3eb434970a8dbd816dc3e073f,Odmena 14 dnů,incremental-emailing,,"Jana, jedným nákupom to u nás nikdy nekončí 🔥",true,,4285,1883,0.439,91,65,0.015,10,3353.67,114
+70968cf98daf4172834c3740690da4c7,Odmena 8 mesiacov od nákupu,incremental-emailing,,"Jana, poď si vybrať nejakú parádnu novinku s 5% zľavou 💜",true,,3454,1100,0.318,16,13,0.004,7,134.08,6
+7b34085eb79949a58ec0a5b02f0274ad,Hodnocení produktu - běž a ohodnoť,incremental-emailing,,"Lenka, darček 🎁 ako poďakovanie za Váš nákup",true,,0,0,0.0,0,0,0.0,0,0.0,0
+6e07fab1deb640e0b0c1ccfffc65f77e,Hodnocení produktud - slevový kod,incremental-emailing,,"Lenka, darček 🎁 ako poďakovanie za Váš nákup",true,,0,0,0.0,0,0,0.0,0,0.0,0
+bb2abf5ac9b1419ba1be5440ef8c5ac5,Odmena 7  dnů,incremental-emailing,,"Jana, 5% zľava | Podeľ sa o radosť s priateľmi ",true,,2432,1200,0.493,51,43,0.018,0,1719.2,95

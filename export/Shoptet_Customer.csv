@@ -1,0 +1,101 @@
+guid,registrationDate,billingFullName,billingStreet,billingHouseNumber,billingCity,billingCountry,billingZip,accountGuid,email,phone
+72966da4-89c6-11ed-944e-121fa48e15df,2023-01-01 12:21:33,Simona Sasáková,Mierová,921/42,Velke Kostoľany,Slovensko,92207,72966f84-89c6-11ed-bad1-121fa48e15df,sasakovasimona@gmail.com,421948344337
+85db253c-8ac3-11ed-ab61-ecf4bbdf609b,2023-01-02 18:33:08,Matúš Nešták,Komenského,264/6,Stará Turá,Slovensko,91601,85db2938-8ac3-11ed-a094-ecf4bbdf609b,matusnestak713@gmail.com,421918941744
+abb25d10-8ae7-11ed-92b0-121fa48e15df,2023-01-02 22:51:54,Katarina Škulcova,Belanského,217,Kysucke nove mesto,Slovensko,2401,abb26012-8ae7-11ed-983d-121fa48e15df,katarinaskulcova9@gmail.com,421950579411
+480f353c-8c20-11ed-9a73-bc97e1a7448e,2023-01-04 12:09:39,Adam Púčik,Námestie Sv. Alžbety,393,Miloslavov,Slovensko,90042,480f38fc-8c20-11ed-8158-bc97e1a7448e,adampucik@gmail.com,421915053487
+5caadb5e-8c5c-11ed-b178-bc97e1a7448e,2023-01-04 19:19:43,Jakub Gazdík,Viedenska 19,19,"Košice, Viedenská",Slovensko,4013,5caadff0-8c5c-11ed-9713-bc97e1a7448e,jakubgazdik83@gmail.com,421904943851
+20d81c10-8f70-11ed-bacb-121fa48e15df,2023-01-08 17:18:46,Marcela Pomotyová,Horná,182,Babiná,Slovensko,96261,20d81e2c-8f70-11ed-bef4-121fa48e15df,snoobylp1337@gmail.com,421918997662
+28f530f4-9105-11ed-bd2e-121fa48e15df,2023-01-10 17:38:06,Michaela Polovkova,Sládkovičova,38/17,Svit,Slovensko,5921,28f532fc-9105-11ed-b8db-121fa48e15df,michaelapolovkova@gmail.com,421910110479
+327568d6-910c-11ed-887a-bc97e1a7448e,2023-01-10 18:28:29,Filip Halický,Partizánska,36,Humenné,Slovensko,6601,32756cf0-910c-11ed-bd43-bc97e1a7448e,filip.halicky888@gmail.com,421940232525
+75de9dfc-913b-11ed-bb71-ecf4bbdf609b,2023-01-11 00:06:48,Richard Pangrac,Homolkova,29A,Bardejov,Slovensko,8501,75dea680-913b-11ed-8a36-ecf4bbdf609b,richardpangrac9@gmail.com,421919220986
+e74a58c6-91b0-11ed-aa87-121fa48e15df,2023-01-11 14:07:29,Ivona Roncová,Krahule,153,Krahule,Slovensko,96701,e74a5c18-91b0-11ed-9b93-121fa48e15df,yvonka.r@gmail.com,421918575199
+a1bfb9a4-923c-11ed-bc41-121fa48e15df,2023-01-12 06:47:42,Enriko Oláh,Hollého,297/19,Sokolovce,Slovensko,92231,a1bfbbde-923c-11ed-beb3-121fa48e15df,enriko.olah@icloud.com,421908026645
+e4623abe-9289-11ed-800c-bc97e1a7448e,2023-01-12 16:00:45,Jakub Belko,Ružová,160,Tlmače,Slovensko,93521,e4623dde-9289-11ed-9e37-bc97e1a7448e,Jakub.belko.sk.07@gmail.com,421950586672
+051e8a84-92a1-11ed-8288-121fa48e15df,2023-01-12 18:46:19,Samuel Stríž,Hlavná,35,Biely Kostol,Slovensko,91934,051e8c8c-92a1-11ed-97b4-121fa48e15df,strizsamuel5@gmail.com,421904420138
+dbdb8b1e-935d-11ed-86cd-121fa48e15df,2023-01-13 17:18:04,Damián Bortňák,Hrabovecká,778/17,Raslavice,Slovensko,8641,dbdb8cd6-935d-11ed-bb4d-121fa48e15df,damianbortnak8@gmail.com,421902566680
+311c3cac-93f1-11ed-836f-121fa48e15df,2023-01-14 10:52:43,Lukáš Danko,Horný Hričov,198,Žilina,Slovensko,1342,311c3e50-93f1-11ed-b44c-121fa48e15df,lukaskodanko6@gmail.com,421948408771
+bb76a950-9450-11ed-bdc7-bc97e1a7448e,2023-01-14 22:16:38,Sebastian Poos,Neded,629,Neded,Slovensko,92585,bb76af04-9450-11ed-92b5-bc97e1a7448e,jakubskap00@gmail.com,905732264
+9fbc2bca-9452-11ed-ace9-bc97e1a7448e,2023-01-14 22:30:10,Michal Michňo,Škultétyho,169/2,Partizánske,Slovensko,95801,9fbc3098-9452-11ed-8be1-bc97e1a7448e,mmichno83@gmail.com,421944134687
+f8bf6b16-94dd-11ed-9d06-bc97e1a7448e,2023-01-15 15:07:40,Lena Tomsova,Znievska,34,Bratislava,Slovensko,85106,f8bf6e4a-94dd-11ed-950c-bc97e1a7448e,lenkatomsova3@gmail.com,421948118339
+ce6d7ba8-94e9-11ed-ba17-121fa48e15df,2023-01-15 16:32:22,Juraj klimek,Zlaté,120,Zlaté,Slovensko,8601,ce6d7dba-94e9-11ed-a3ca-121fa48e15df,jurajklimek@gmail.com,421944665811
+ce77a022-9504-11ed-9a44-121fa48e15df,2023-01-15 19:45:39,Jaroslav Žilinčár,Vychylovka,758,Nová Bystrica,Slovensko,2305,ce77a1da-9504-11ed-be28-121fa48e15df,zjaroslav41@gmail.com,948990375
+99391216-9508-11ed-b046-ecf4bbdf609b,2023-01-15 20:12:48,Petr Beteša,Bieloruska,52,Bratislava,Slovensko,82106,993917a2-9508-11ed-b76a-ecf4bbdf609b,petkobetesa69@gmail.com,421950835442
+8b3870dc-9524-11ed-bb7c-bc97e1a7448e,2023-01-15 23:32:50,Miroslav Jantula,Nová Bystrica Vychylovka,887,Čadca,Slovensko,2305,8b38744c-9524-11ed-8f95-bc97e1a7448e,jantulamiro@gmail.com,421911017741
+9ca669dc-95dd-11ed-af17-bc97e1a7448e,2023-01-16 21:37:36,Mario Urbánek,Dolné Našrice,212,Dolné Naštice,Slovensko,95701,9ca66db0-95dd-11ed-9769-bc97e1a7448e,pikacurbanek@gmail.com,908631999
+439c1802-95e0-11ed-9c2e-bc97e1a7448e,2023-01-16 21:56:35,Alex Benko,Lodno,251,Kysucký Lieskovec,Slovensko,2334,439c1afa-95e0-11ed-8013-bc97e1a7448e,benkoalex30@gmail.com,421910567974
+9f69e286-9649-11ed-a5a8-bc97e1a7448e,2023-01-17 10:30:46,Miroslav Oravec,Dlhomíra Poľského,604/6,Kysucké Nové Mesto,Slovensko,2401,9f69e718-9649-11ed-a25d-bc97e1a7448e,miroslav.oravec123@gmail.com,421908458816
+fd08d770-966d-11ed-bdb1-121fa48e15df,2023-01-17 14:51:05,Matej Cimprich,Dolne srnie,259,Nove mesto nad vahom,Slovensko,91641,fd08d950-966d-11ed-b2e8-121fa48e15df,matejcimprich@icloud.com,421917056787
+4bcbb97e-97d9-11ed-ac60-bc97e1a7448e,2023-01-19 10:11:45,Dominik Čech,Kokošovce,158,Kokošovce,Slovensko,8252,4bcbbd8e-97d9-11ed-8560-bc97e1a7448e,cech1.dominik@gmail.com,421940608993
+7b3b4ac8-97eb-11ed-b461-bc97e1a7448e,2023-01-19 12:21:55,Samuel Juříček,Kišovce,326,Hôrka,Slovensko,5912,7b3b4dca-97eb-11ed-9d03-bc97e1a7448e,samueljuricek2@gmail.com,421902336262
+46554644-982a-11ed-89f7-bc97e1a7448e,2023-01-19 19:51:25,Martin Belaň,Obrancov mieru,520/50,Lehota pod Vtáčnikom,Slovensko,97242,46554afe-982a-11ed-a941-bc97e1a7448e,martinbelan7@gmail.com,911461717
+be47877c-99c7-11ed-8938-bc97e1a7448e,2023-01-21 21:11:08,Tobiáš Jakubov,Trieda SNP,75,Košice,Slovensko,4011,be478c18-99c7-11ed-a64e-bc97e1a7448e,jakubovtobias69@gmail.com,421910619559
+dfda711c-9a60-11ed-8e9a-bc97e1a7448e,2023-01-22 15:27:18,Juraj klimek,Zlaté,120,Zlaté,Slovensko,8601,dfda75c2-9a60-11ed-83b7-bc97e1a7448e,jurajklimek057@gmail.com,421944665811
+7fbb46c0-9cc3-11ed-be1b-bc97e1a7448e,2023-01-25 16:18:19,Juraj Škola,Oščadnica 1740,1740,Oščadnica,Slovensko,2301,7fbb49d6-9cc3-11ed-b6f9-bc97e1a7448e,skolajuro@gmail.com,421919061727
+e23998ec-9d4a-11ed-b1fa-bc97e1a7448e,2023-01-26 08:27:26,Igor Mikula,Josefa Skupy,2300/10,Most,Česká republika,43401,e2399d88-9d4a-11ed-9dcf-bc97e1a7448e,cr.ne.11@seznam.cz,420728588320
+b45659d6-9d92-11ed-8935-bc97e1a7448e,2023-01-26 17:01:33,Jakub Bubán,Petrova Ves,65,Petrova Ves,Slovensko,90844,b4565ce2-9d92-11ed-a6e5-bc97e1a7448e,grinsby101@gmail.com,950853938
+a84ab8d4-a081-11ed-8662-ecf4bbdf609b,2023-01-30 10:37:05,Jakub Belko,Ružová,160,Tlmače,Slovensko,93521,a84abc6c-a081-11ed-80ad-ecf4bbdf609b,jakubbelko87@gmail.com,421950586672
+5da16a60-a0d8-11ed-a825-bc97e1a7448e,2023-01-30 20:57:46,Simon Konš,Janka Matušku,351,Žabokreky Nad Nitrou,Slovensko,95852,5da1700a-a0d8-11ed-a174-bc97e1a7448e,simonkons83@gmail.com,421903013088
+5470977c-a1a0-11ed-8731-bc97e1a7448e,2023-01-31 20:49:10,Marek Zaťko,Svätoplukova,1240/4,Bánovce nad Bebravou,Slovensko,95701,54709b50-a1a0-11ed-bbd6-bc97e1a7448e,zatkomarek23@gmail.com,421902774292
+38a02922-a2d1-11ed-a68c-bc97e1a7448e,2023-02-02 09:11:40,Lívia Foriškova,Generála Ludvíka Svobodu,1359/14,Senica,Slovensko,90501,38a02c06-a2d1-11ed-bc3b-bc97e1a7448e,Forisica.l@gmail.com,940178980
+4ba4524e-a3e1-11ed-a2ce-bc97e1a7448e,2023-02-03 17:39:15,Bálint Bábi,Bajč 140,140,Bajč,Slovensko,94654,4ba45564-a3e1-11ed-9ed9-bc97e1a7448e,babi.balintka@gmail.com,421950725166
+28bdd702-a489-11ed-8e62-121fa48e15df,2023-02-04 13:40:51,Jakub Venglarčík,Zimná 5,283,Spišská Belá,Slovensko,5901,28bdd95a-a489-11ed-9e6e-121fa48e15df,randomcapek7@gmail.com,949319549
+9a22b1f4-a4d6-11ed-baf0-ecf4bbdf609b,2023-02-04 22:55:13,Michal Vacula,Červenej Armády,1061/15,Turany,Slovensko,3853,9a22b532-a4d6-11ed-b0ad-ecf4bbdf609b,vaculamichal1@gmail.com,911677281
+fe3bd972-a60c-11ed-8ec6-bc97e1a7448e,2023-02-06 11:57:05,Timotej Sabota,Hurbanova,650,Senica,Slovensko,90501,fe3bdfbc-a60c-11ed-b408-bc97e1a7448e,ctimo665@gmail.com,421948466297
+4ec1830a-a64f-11ed-95c0-bc97e1a7448e,2023-02-06 19:51:47,Dominik Frindt,Medňanského,58,Spišská Belá/Strážky,Slovensko,5901,4ec1867a-a64f-11ed-8927-bc97e1a7448e,Dominik.frnd@gmail.com,421918273259
+4de6cdbe-a898-11ed-8a81-ecf4bbdf609b,2023-02-09 17:39:21,Mario Zelenay,Borovce,383,Borovce,Slovensko,92209,4de6d174-a898-11ed-a3c9-ecf4bbdf609b,mario.zelenay.11@gmail.com,421944042614
+05b741d2-a89c-11ed-9ae2-ecf4bbdf609b,2023-02-09 18:05:58,Sebastian Poos,Neded 629,629,Neded,Slovensko,92585,05b7477c-a89c-11ed-b1ea-ecf4bbdf609b,pgnsebastian0@gmail.com,905732264
+3e6ddfd2-a931-11ed-b2c6-ecf4bbdf609b,2023-02-10 11:54:08,Jindra Tesar,Palchova,727,Usti nad Labem,Česká republika,40001,3e6de324-a931-11ed-93dc-ecf4bbdf609b,jindratesar0710@gmail.com,420731852106
+92a27c9a-aa15-11ed-a1a7-121fa48e15df,2023-02-11 15:08:34,Ordidytkoš Maximus,Okulka,10/20,Vranov nad Topľou,Slovensko,9301,92a27ea2-aa15-11ed-b66a-121fa48e15df,objednavamsi234@gmail.com,421908483049
+6876641a-ab21-11ed-af76-121fa48e15df,2023-02-12 23:05:49,Jozef Vavro,Hlohovecka,357/13,Sokolovce,Slovensko,92231,68766654-ab21-11ed-aa60-121fa48e15df,vavro2004@gmail.com,421910489828
+1475011c-ac63-11ed-970b-bc97e1a7448e,2023-02-14 13:28:26,Adrian Pirožek,Dubinky,650/1,Lehota pod Vtáčnikom,Slovensko,97242,147505b8-ac63-11ed-a4cf-bc97e1a7448e,adrianpirozek5@gmail.com,421904158073
+a824174a-ad21-11ed-9fc7-bc97e1a7448e,2023-02-15 12:12:38,Tomáš Caban,Trieda Hradca Králové,40,Banská Bystrica,Slovensko,97404,a8241b0a-ad21-11ed-9e82-bc97e1a7448e,tomasko.caban@gmail.com,421917158736
+6b35c730-ad2f-11ed-8090-bc97e1a7448e,2023-02-15 13:51:09,Adam Kamoďa,Utekáč,216,Kokava Nad Rimavicou,Slovensko,98506,6b35cb18-ad2f-11ed-8ae0-bc97e1a7448e,kamoda.adam1@gmail.com,421907405560
+fd87c6b4-ad49-11ed-a035-121fa48e15df,2023-02-15 17:01:21,Matus Brotka,Odorin,278,Odorin,Slovensko,5322,fd87c880-ad49-11ed-98c1-121fa48e15df,matusbrotka@gmail.com,915252996
+001da814-ae97-11ed-aa93-bc97e1a7448e,2023-02-17 08:45:08,David Kriš,Dujavska 6,Dom,Veľký Šariš,Slovensko,8221,001dab70-ae97-11ed-aa29-bc97e1a7448e,davidkris889@gmail.com,421944375928
+bc438722-aefe-11ed-a522-121fa48e15df,2023-02-17 21:07:42,Matej Konc,Tichá,34,Stare Mesto,Slovensko,81102,bc43898e-aefe-11ed-8dda-121fa48e15df,mato.konc@gmail.com,421904540740
+6b7dbe3a-b0c9-11ed-9e1c-121fa48e15df,2023-02-20 03:51:05,Boratikk,Stred,540,Turzovka,Slovensko,2354,6b7dc060-b0c9-11ed-9efb-121fa48e15df,mariankubis3b@gmail.com,944672688
+9db5528c-b119-11ed-9527-121fa48e15df,2023-02-20 13:25:09,Adam Hažik,SNP,132/72,Čadca,Slovensko,2204,9db553fe-b119-11ed-8dc7-121fa48e15df,hazikadam61@gmail.com,421919285903
+3491777c-b38a-11ed-afd1-121fa48e15df,2023-02-23 15:56:08,PapaOddshot,Podlužany,323,Podlužany,Slovensko,95652,34917970-b38a-11ed-89a7-121fa48e15df,tokys048@gmail.com,904535422
+63fdd9fe-b5d5-11ed-a168-bc97e1a7448e,2023-02-26 13:59:22,Adrian Peniak,Osloboditelov,191,Dolny Hricov,Slovensko,1341,63fde052-b5d5-11ed-9fc0-bc97e1a7448e,adrian@peniak.com,421911604579
+0f6b1544-b672-11ed-86fb-ecf4bbdf609b,2023-02-27 08:40:51,Fero Pišta,Ružová,160,Tlmače,Slovensko,93521,0f6b1a08-b672-11ed-afa8-ecf4bbdf609b,qq84070@gmail.com,421950586672
+6af50a52-b6a2-11ed-b5d2-121fa48e15df,2023-02-27 14:27:01,Jakub Balbáni,Miletičova,5/A,Bratislava,Slovensko,88201,6af50d54-b6a2-11ed-8316-121fa48e15df,jakub.hric27@gmail.com,421944985144
+97742886-b6a4-11ed-9878-121fa48e15df,2023-02-27 14:42:35,Veronika Herceghová,SNP,1478/128,Považská Bystrica,Slovensko,1707,97742b7e-b6a4-11ed-baaf-121fa48e15df,herceghovav@gmail.com,421950373346
+750852f0-b770-11ed-9d47-121fa48e15df,2023-02-28 15:01:54,Richard Spusta,Sološnica,477,Sološnica,Slovensko,90637,7508549e-b770-11ed-8a7f-121fa48e15df,rspusta1@gmail.com,421907305166
+61a5f330-b909-11ed-8065-bc97e1a7448e,2023-03-02 15:49:06,Tomáš Baleja,Tatranská,73,Smižany,Slovensko,5311,61a5f614-b909-11ed-95e7-bc97e1a7448e,tomasbaleja5666@gmail.com,421910102363
+b920331e-bb66-11ed-af25-ecf4bbdf609b,2023-03-05 16:02:18,Simon Ligas,Lúčna,2849,Hriňová,Slovensko,96205,b9203756-bb66-11ed-9fb4-ecf4bbdf609b,ligassimon104@gmail.com,421911497090
+bc06c1c2-bc30-11ed-bcbb-121fa48e15df,2023-03-06 16:08:21,Dragon Tv,8maja27,27,Nitra,Slovensko,94901,bc06c35c-bc30-11ed-8fc2-121fa48e15df,denodeno256@gmail.com,910429247
+58232706-bcb5-11ed-89e5-bc97e1a7448e,2023-03-07 07:57:37,kubizz_ eu,Terchova mlaka,1488,Terchová,Slovensko,1306,58232d32-bcb5-11ed-91a7-bc97e1a7448e,jakubopalka8@gmail.com,951805844
+5d3458ba-bcfa-11ed-bf46-bc97e1a7448e,2023-03-07 16:11:40,Veronika Kalayova,Parkova,341,Žirany,Slovensko,95174,5d345c2a-bcfa-11ed-9789-bc97e1a7448e,veronikakalayova24@gmail.com,421911712381
+7a82387e-bd04-11ed-a307-121fa48e15df,2023-03-07 17:24:05,Josef Bubak,Dobroměřice 5.května,380,Louny,Česká republika,44001,7a823a04-bd04-11ed-94ab-121fa48e15df,josefbubak9@gmail.com,420722529716
+452a4a24-bd8e-11ed-8ee4-ecf4bbdf609b,2023-03-08 09:50:26,Martin Putala,Dohňany 704,704,Dohňany,Slovensko,2051,452a4f38-bd8e-11ed-9a7f-ecf4bbdf609b,putalamartin@gmail.com,421949202569
+c13190ba-bd9c-11ed-b7e2-121fa48e15df,2023-03-08 11:34:07,Matus Prukner,Hrable,49,Michalová,Slovensko,97657,c1319330-bd9c-11ed-9025-121fa48e15df,pukys321@gmail.com,421910701741
+dedbf33e-beab-11ed-b068-bc97e1a7448e,2023-03-09 19:54:50,Andrej Danko,Lipník,112,Lipník,Slovensko,97232,dedbf80c-beab-11ed-9511-bc97e1a7448e,dankoandrej10@gmail.com,421948001167
+19114ace-c017-11ed-8990-bc97e1a7448e,2023-03-11 15:14:55,Aurel Pikula,Komenského,611,Vranov nad Topľou,Slovensko,9302,19114fd8-c017-11ed-8326-bc97e1a7448e,aurelpikula@gmail.com,948106107
+c837bc64-c034-11ed-852e-121fa48e15df,2023-03-11 18:47:24,Adam Balog,Ružova,66,Rozanovce,Slovensko,4442,c837be58-c034-11ed-a411-121fa48e15df,adam.balog2@icloud.com,421950584338
+8a9c4e18-c0d6-11ed-aea9-bc97e1a7448e,2023-03-12 14:05:19,Matej Mizerák,Bratislavská,87,Kopčany,Slovensko,90848,8a9c52aa-c0d6-11ed-a4e3-bc97e1a7448e,mizerak.matej21@gmail.com,421944027773
+40b617f4-c0de-11ed-9d57-bc97e1a7448e,2023-03-12 15:00:31,Michal Beniač,Cibové dvory,986,Rosina,Slovensko,1322,40b61ac4-c0de-11ed-9804-bc97e1a7448e,michalbeniac11@gmail.com,421915540133
+c3d5cdec-c0f6-11ed-a88c-121fa48e15df,2023-03-12 17:55:59,Liana Kasaiova,Orechova,8A,Galanta,Slovensko,92301,c3d5d06c-c0f6-11ed-bf57-121fa48e15df,lianakasaiova100@gmail.com,944343878
+5f844448-c111-11ed-9570-121fa48e15df,2023-03-12 21:06:27,Kristián Straňava,Čierne,46,Čierne pri Čadci,Slovensko,2313,5f84468c-c111-11ed-b650-121fa48e15df,kristian.stranava@gmail.com,421951552526
+77db70b2-c18d-11ed-a149-ecf4bbdf609b,2023-03-13 11:54:46,Jaroslab Džurbala,Záhradná,360,Humenné,Slovensko,6601,77db744a-c18d-11ed-873f-ecf4bbdf609b,jarkoboss1@gmail.com,421948249511
+e5ed753e-c271-11ed-b898-bc97e1a7448e,2023-03-14 15:09:56,Jaroslav Krupelak,Muškátová 6,Krupelakova,Michalovce,Slovensko,7101,e5ed785e-c271-11ed-b6f4-bc97e1a7448e,jkrupelak898@gmail.com,421948609846
+f9b60cc2-c373-11ed-84ea-bc97e1a7448e,2023-03-15 21:57:19,Maxim Putnocky,Fraňa Kráľa,454,Prešov,Slovensko,8001,f9b613f2-c373-11ed-b6b4-bc97e1a7448e,putnockymaxim3@gmail.com,949438538
+eb1616fa-c41b-11ed-b433-121fa48e15df,2023-03-16 17:59:30,Tomáš Janota,Rozkvet,2079/170,POVAŽSKÁ BYSTRICA 1,Slovensko,1701,eb161948-c41b-11ed-aa21-121fa48e15df,janotatomas0@gmail.com,421902571658
+7e358444-c501-11ed-a4fc-ecf4bbdf609b,2023-03-17 21:22:52,Brumbal92,Husova,539,Smržovka,Slovensko,46851,7e358980-c501-11ed-8660-ecf4bbdf609b,rudafifa019@gmail.com,725406314
+968aee2a-c6ab-11ed-bc00-ecf4bbdf609b,2023-03-20 00:12:58,František Kelemen,S.H Vajanského,41,Nové Zámky,Slovensko,94002,968af438-c6ab-11ed-912b-ecf4bbdf609b,ferkokelemen72@gmail.com,421944877483
+973c5f66-c719-11ed-a6ff-bc97e1a7448e,2023-03-20 13:20:24,Miroslav Štipčák,Hlavná,59,Dolné Trhovište,Slovensko,92061,973c6600-c719-11ed-9115-bc97e1a7448e,stipcakmiroslav0@gmail.com,421911777118
+9b81bb30-c8c6-11ed-9797-bc97e1a7448e,2023-03-22 16:31:25,Julko Farkáš,Štúrová 62,62,Detva,Slovensko,96212,9b81c2d8-c8c6-11ed-b866-bc97e1a7448e,julkofarkas40@gmail.com,940247856
+d9adc082-c8cd-11ed-a9c2-ecf4bbdf609b,2023-03-22 17:23:16,Adam SIM,Stará Bystrica 82,82,Čadca,Slovensko,2304,d9adc546-c8cd-11ed-ba6f-ecf4bbdf609b,adamsimasek@gmail.com,944244309
+2ee33cc4-c957-11ed-a19e-121fa48e15df,2023-03-23 09:46:20,Matej Kráľ,Ulica Červenej Armády Diviaky,55,Turčianske Teplice,Slovensko,3901,2ee33e90-c957-11ed-ad70-121fa48e15df,matejkralpc@gmail.com,421950492572
+acc0b3b4-c976-11ed-8171-bc97e1a7448e,2023-03-23 13:31:45,adam sim,Stará Bystrica,82,Čadca,Slovensko,2304,acc0b7ce-c976-11ed-ad5b-bc97e1a7448e,alosjktban@gmail.com,944244309
+612bb018-c988-11ed-9853-121fa48e15df,2023-03-23 15:38:30,Petr kajzr,Melantrichova,117/4,Liberec,Česká republika,46007,612bb248-c988-11ed-9cd1-121fa48e15df,petrkajzr6@gmail.com,420704427757
+1bd5e5c0-cb3f-11ed-b4b2-121fa48e15df,2023-03-25 19:59:02,Matus dikos,Terchova,545,Zilina,Slovensko,1306,1bd5e75a-cb3f-11ed-bfdf-121fa48e15df,matusdikos@icloud.com,421903539566
+8064ffdc-cbdd-11ed-8697-bc97e1a7448e,2023-03-26 15:52:52,Kristian Czedli,Jablonova,28,Samorin,Slovensko,93101,80650324-cbdd-11ed-aad5-bc97e1a7448e,czedlikristian19@gmail.com,911205323
+9415a814-cc60-11ed-a289-bc97e1a7448e,2023-03-27 07:31:09,Martin Varga,Znievska,34,Bratislava,Slovensko,85106,9415ad1e-cc60-11ed-92ba-bc97e1a7448e,varga.mato38@gmail.com,421948118339
+b8314a00-ccc4-11ed-87f0-bc97e1a7448e,2023-03-27 19:27:59,Samuel Jaššo,Komenského,33,Trebišov,Slovensko,7501,b8314f96-ccc4-11ed-a42a-bc97e1a7448e,samko.jasso@gmail.com,421944909884
+b0eea584-cd65-11ed-9b4d-bc97e1a7448e,2023-03-28 14:40:16,Ján Horvát,Štítnická,204/16,Rožňava,Slovensko,4801,b0eea912-cd65-11ed-a4c2-bc97e1a7448e,johyhorvi2@gmail.com,421950414402
+1e404464-cd6e-11ed-89c1-bc97e1a7448e,2023-03-28 15:40:35,Milan Bow tie,Deviati Máj,100,Banovce nad Bebravou,Slovensko,95655,1e4047e8-cd6e-11ed-b5f2-bc97e1a7448e,clashofclansvocko@gmail.com,951918130
+f1af0c9c-ce2f-11ed-a322-ecf4bbdf609b,2023-03-29 14:48:03,David Bocek,9. mája,20,Banovce nad Bebravou,Slovensko,95701,f1af125a-ce2f-11ed-b041-ecf4bbdf609b,bocekdavid391@gmail.com,421951918130
+24997732-ce3f-11ed-adbf-ecf4bbdf609b,2023-03-29 16:36:51,Jan Horvat,Štítnická,204/16,Rožňava,Slovensko,4801,24997c78-ce3f-11ed-8946-ecf4bbdf609b,johnyhorvi2@gmail.com,421950414402
+30eb500e-cf1c-11ed-876a-121fa48e15df,2023-03-30 18:59:10,martin neuschl,Štiavnické Bane,727,Štiavnické Bane,Slovensko,96981,30eb51f8-cf1c-11ed-940c-121fa48e15df,mato.neuschl11@gmail.com,421918746207
+1eacdc3c-cfa3-11ed-9802-bc97e1a7448e,2023-03-31 11:05:01,Milan Bučko,Hronskeho,1327/1,Banovce nad Bebravou,Slovensko,95704,1eace0f6-cfa3-11ed-a6d9-bc97e1a7448e,milanbucko181@gmail.com,421914108043
+69c477fe-d24e-11ed-bd42-bc97e1a7448e,2023-04-03 20:36:14,Rene Foltynek,Predmestie,85,Skalica,Slovensko,90901,69c47da8-d24e-11ed-ae00-bc97e1a7448e,foltynekrene@gmail.com,904966638

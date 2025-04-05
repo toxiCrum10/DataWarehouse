@@ -1,0 +1,3 @@
+BigQuery error in query operation: Error processing job
+'nicolips:bqjob_r344020edaf617667_00000195fd0ff9ce_1': Not found: Table
+nicolips:google_ads_data.kvartal was not found in location europe-west10
